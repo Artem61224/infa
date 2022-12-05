@@ -1,0 +1,56 @@
+.line{
+	width: 1280px;
+	height: 40px;
+	background-color: pink;
+	
+}
+
+
+
+.a {
+	margin-bottom: 10px;
+}
+.b {
+ 	background-color: black;
+ 	width: 250px;
+ 	height: 650px;
+ 	margin-top: 15px;
+ 	position: absolute; left: 0px;
+	margin-bottom: 50px;
+}
+
+
+.default {
+	background-color: red;
+	height: 50px;
+	margin-top: 20px;
+	padding-top:20px;
+	padding-left: 10px;
+	width: 200px;
+	margin-bottom: 10px;
+}
+
+.bkv{
+	margin-left: 300px;
+	position: absolute; left: 0px;
+	background-color: yellow;
+	height: 495px;
+	width: 970px; 
+}
+.skv{
+	height: 150px;
+	width: 320px;
+	background-color: blue;
+	margin-top: 515px;
+	margin-left: 293px; 
+}
+
+.skv1{
+	margin-left: 325px;
+
+}
+.skv2{
+	margin-left: 325px;
+
+}
+
